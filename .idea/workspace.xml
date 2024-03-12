@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a9769d-ff5f-4d15-b4e7-4db329a41167" name="Changes" comment="First lines of python code">
-      <changelist_data name="Amanda Hansson" email="amanda9307@gmail.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f3a9769d-ff5f-4d15-b4e7-4db329a41167" name="Changes" comment="Test Push 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +87,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1710275973603</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Test Push 1">
+      <option name="closed" value="true" />
+      <created>1710276558436</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1710276558436</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First lines of python code" />
-    <option name="LAST_COMMIT_MESSAGE" value="First lines of python code" />
+    <MESSAGE value="Test Push 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Push 1" />
   </component>
 </project>
